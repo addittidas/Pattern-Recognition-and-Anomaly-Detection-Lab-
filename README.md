@@ -13,7 +13,7 @@ This repository contains the lab exercises for the subject **Pattern Recognition
 
 | Experiment No | Title |
 |--------------|-------------------------------------------------|
-| 1  | Installing Anaconda and set up environment |
+| 1  | Installing Anaconda and Setup Environment |
 | 2  | Using Pandas and NumPy |
 | 3  | Linear Regression |
 | 4  | Logistic Regression |
