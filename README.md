@@ -29,4 +29,17 @@ This repository contains the lab exercises for the subject **Pattern Recognition
 ## 🚀 How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/addittidas/Pattern-Recognition-and-Anomaly-Detection-Lab.git
+
+2. Navigate to the project folder:
+    ```sh
+    cd Pattern-Recognition-and-Anomaly-Detection-Lab
+
+3. Install dependencies:
+    ```sh
+    pip install -r requirements.txt
+
+4. Run the experiments as needed.
+
+## 📜 License
+This project is licensed under the MIT License.
