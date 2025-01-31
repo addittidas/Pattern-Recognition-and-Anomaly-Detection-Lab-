@@ -18,8 +18,8 @@ This repository contains the lab exercises for the subject **Pattern Recognition
 | 3  | Linear Regression |
 | 4  | Logistic Regression |
 | 5  | Polynomial Regression |
-<!-- | 6  | Support Vector Machines |
-| 7  | Local Outlier Factors |
+| 6  | Support Vector Machines |
+<!-- | 7  | Local Outlier Factors |
 | 8  | Decision Trees |
 | 9  | Random Forests |
 | 10 | Isolated Random Forest |
